@@ -3,7 +3,7 @@
 # Personal ML Study
 개인적으로 공부한 머신러닝 요약
 
-##### 1. 1st week
+#### 1. 1st week
 
 
 
@@ -11,7 +11,7 @@
 # Deep Learning from Scratch
 Deep Learning from Scratch : 밑바닥부터 시작하는 딥러닝 책에 대한 정리
 
-##### 1. 1st week
+#### 1. 1st week
 파이썬으로 그래프 그리기[[graph_with_python]](https://nbviewer.jupyter.org/gist/gihyunkim/4837a7e7875e9314c520ad3182a06670)
   -기본 파이썬 문법은 따로 정리하지 않았습니다.
   - 파이썬에 대한 자료형, 연산, 리스트, 딕셔너리, 출력문, 가정문, 반복문, 함수와 클래스 작성법, numpy에 대한 기본 지식이 필요합니다.
@@ -22,7 +22,7 @@ Deep Learning from Scratch : 밑바닥부터 시작하는 딥러닝 책에 대�
 # KIM_SUN Machine Learning
 김성훈 교수님 필기
 
-##### 1. 1st week
+#### 1. 1st week
  - 이론
  - 실습
  
@@ -31,7 +31,7 @@ Deep Learning from Scratch : 밑바닥부터 시작하는 딥러닝 책에 대�
 # Andrew Ng ML
 Andrew Ng Coursera 필기
 
-##### 1. 1st week
+#### 1. 1st week
 
 
 
