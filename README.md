@@ -12,11 +12,11 @@
 Deep Learning from Scratch : 밑바닥부터 시작하는 딥러닝 책에 대한 정리
 
 #### 1. 1st week
-파이썬으로 그래프 그리기[[graph_with_python]](https://nbviewer.jupyter.org/gist/gihyunkim/4837a7e7875e9314c520ad3182a06670)
+1.1 파이썬으로 그래프 그리기[[graph_with_python]](https://nbviewer.jupyter.org/gist/gihyunkim/4837a7e7875e9314c520ad3182a06670)
   -기본 파이썬 문법은 따로 정리하지 않았습니다.
   - 파이썬에 대한 자료형, 연산, 리스트, 딕셔너리, 출력문, 가정문, 반복문, 함수와 클래스 작성법, numpy에 대한 기본 지식이 필요합니다.
   - 파이썬을 모르시다면 이 사이트를 참고하세요. [[점프 투 파이썬_wiki]](https://wikidocs.net/book/1)
-
+1.2 퍼셉트론[[Perceptron]](https://nbviewer.jupyter.org/gist/gihyunkim/e872240cbd061e7dec09dc2a3d5d2161/Perceptron.ipynb)
 
 
 # KIM_SUN Machine Learning
