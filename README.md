@@ -2,6 +2,7 @@
 
 # Personal ML Study
 개인적으로 공부한 머신러닝 요약
+김성훈 교수님 자료 많이 참고하였습니다.
 
 #### 1. 1st week
 
@@ -21,15 +22,8 @@ Deep Learning from Scratch : 밑바닥부터 시작하는 딥러닝 책에 대�
 1.2 퍼셉트론[[Perceptron]](https://nbviewer.jupyter.org/gist/gihyunkim/e872240cbd061e7dec09dc2a3d5d2161/Perceptron.ipynb)
 
 
-# KIM_SUN Machine Learning
-김성훈 교수님 필기
 
-#### 1. 1st week
- - 이론
- - 실습
- 
- 
- 
+
 # Andrew Ng ML
 Andrew Ng Coursera 필기
 
