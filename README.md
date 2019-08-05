@@ -4,10 +4,10 @@
 
 #### 1. 1st week
 
-    1.1 Basic of Machine Learning[[BASIC]](https://nbviewer.jupyter.org/gist/gihyunkim/5718a178736cb2f3d208f89bf4e2879c)
-    1.2 Linear Regression[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/a3638fd02311ba7e54be3cf59e64394c)
-    1.3 Linear Cost[[Cost_Function]](https://nbviewer.jupyter.org/gist/gihyunkim/1970bb8e80f9722e2b12179bc9965664)
-    1.4 Binary Classfication[[Binary]]()
+1.1 Basic of Machine Learning[[BASIC]](https://nbviewer.jupyter.org/gist/gihyunkim/5718a178736cb2f3d208f89bf4e2879c)
+1.2 Linear Regression[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/a3638fd02311ba7e54be3cf59e64394c)
+1.3 Linear Cost[[Cost_Function]](https://nbviewer.jupyter.org/gist/gihyunkim/1970bb8e80f9722e2b12179bc9965664)
+1.4 Binary Classfication[[Binary]]()
 
 # Deep Learning from Scratch
 Deep Learning from Scratch : 밑바닥부터 시작하는 딥러닝 책에 대한 정리
