@@ -24,17 +24,21 @@
 
 ## 지도학습(Supervised Learning)
 0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://nbviewer.jupyter.org/gist/gihyunkim/aae72867b0b94a825b0714787b2fd3f0)
-  0. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/c6dc85a6707da110c09bc5f2238f8289)
+
+
+0. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/c6dc85a6707da110c09bc5f2238f8289)
 
 
 1. 선형회귀(Linear Regression)[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b281/02_lin_regression.ipynb)
-  1. 선형회귀 cost함수[[cost]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b281/03_linear_cost.ipynb)
+
+
+1. 선형회귀 cost함수[[cost]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b281/03_linear_cost.ipynb)
 
 
 2. 이진분류(Binary Classification)[[Binary]](https://nbviewer.jupyter.org/gist/gihyunkim/fd3b0b74baea040d30fd11f9892e2e25)
 
 
-2.1 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/55cf023ad00a9d18b794ed060930220e)
+2. 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/55cf023ad00a9d18b794ed060930220e)
 
 
 3. 소프트맥스(Softmax)[[softmax]](https://nbviewer.jupyter.org/gist/gihyunkim/7008615c20206c59cdb35ad76779c4a3)
