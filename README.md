@@ -1,11 +1,10 @@
 # Personal ML Study
-개인적으로 공부한 머신러닝 요약
+개인적으로 공부한 머신러닝 요약.
 
-
-김성훈 교수님 강의와 블로그들 참고했습니다.
-
-
-모두를 위한 머신러닝[[강의]](http://hunkim.github.io/ml/)
+참고자료
+- 모두를 위한 머신러닝[[강의]](http://hunkim.github.io/ml/)
+- 밑바닥부터 시작하는 딥러닝.
+- 블로그 및 사이트.
 
 ## 파이썬
   - 기본 파이썬 문법은 따로 정리하지 않았습니다.
@@ -24,16 +23,22 @@
 2. 모델과 과적합(Overfitting)[[오버피팅]](https://nbviewer.jupyter.org/gist/gihyunkim/c8115f589813f0a6c4996e8409df42c8)
 
 ## 지도학습(Supervised Learning)
+0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://nbviewer.jupyter.org/gist/gihyunkim/aae72867b0b94a825b0714787b2fd3f0)
+
+
+0.1 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/c6dc85a6707da110c09bc5f2238f8289)
+
+
 1. 선형회귀(Linear Regression)[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b281/02_lin_regression.ipynb)
 
 
-  1.1 선형회귀 cost함수[[cost]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b281/03_linear_cost.ipynb)
+1.1 선형회귀 cost함수[[cost]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b281/03_linear_cost.ipynb)
 
 
 2. 이진분류(Binary Classification)[[Binary]](https://nbviewer.jupyter.org/gist/gihyunkim/fd3b0b74baea040d30fd11f9892e2e25)
 
 
-  2.1 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/55cf023ad00a9d18b794ed060930220e)
+2.1 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/55cf023ad00a9d18b794ed060930220e)
 
 
 3. 소프트맥스(Softmax)[[softmax]](https://nbviewer.jupyter.org/gist/gihyunkim/7008615c20206c59cdb35ad76779c4a3)
@@ -42,23 +47,16 @@
 4. 서포트벡터머신(SVM)[[SVM]](https://nbviewer.jupyter.org/gist/gihyunkim/c7d2b6839d81ad84ba705c93c192e929)
 
 
-5. 퍼셉트론(Perceptron)[[퍼셉트론]](https://nbviewer.jupyter.org/gist/gihyunkim/aae72867b0b94a825b0714787b2fd3f0)
+5. CNN(Convolution Neural Network)[[CNN]](https://nbviewer.jupyter.org/gist/gihyunkim/4cfa13019f7b4c97ba0a1c55499865d5)
 
 
-6. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/c6dc85a6707da110c09bc5f2238f8289)
+6. RNN(Recurrent Neural Network)[[RNN]](https://nbviewer.jupyter.org/gist/gihyunkim/fa4a27badc03103e314a75b6d189590d)
 
 
-7. CNN(Convolution Neural Network)[[CNN]](https://nbviewer.jupyter.org/gist/gihyunkim/4cfa13019f7b4c97ba0a1c55499865d5)
+7. LSTM(Long-short term Memory Unit)[[LSTM]](https://nbviewer.jupyter.org/gist/gihyunkim/7948c71fa43b8eed9cdc034852f93333)
 
 
-8. RNN(Recurrent Neural Network)[[RNN]](https://nbviewer.jupyter.org/gist/gihyunkim/fa4a27badc03103e314a75b6d189590d)
-
-
-9. LSTM(Long-short term Memory Unit)[[LSTM]](https://nbviewer.jupyter.org/gist/gihyunkim/7948c71fa43b8eed9cdc034852f93333)
-
-
-
-10. GRU(Gated Recurrent Unit)[[GRU]](https://nbviewer.jupyter.org/gist/gihyunkim/a544a5f122ad629558461997da7708bb)
+8. GRU(Gated Recurrent Unit)[[GRU]](https://nbviewer.jupyter.org/gist/gihyunkim/a544a5f122ad629558461997da7708bb)
 
 
 
