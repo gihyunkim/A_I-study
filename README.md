@@ -1,10 +1,11 @@
 # Personal ML Study
 개인적으로 공부한 머신러닝 요약.
 
-참고자료
+공부하기 좋은 자료.
 - 모두를 위한 머신러닝[[강의]](http://hunkim.github.io/ml/)
-- 밑바닥부터 시작하는 딥러닝.
-- 블로그 및 사이트.
+- c231n[[강의]](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- coursera[[강의]](https://www.coursera.org/learn/machine-learning)
+
 
 ## 파이썬
   - 기본 파이썬 문법은 따로 정리하지 않았습니다.
@@ -17,27 +18,27 @@
  
 
 ## 머신러닝의 기본(Basic of ML)
-1. Basic Machine Learning[[Basic]](https://nbviewer.jupyter.org/gist/gihyunkim/f790c2ab871dae5628543b3e5a4b2146222)
+1. Basic Machine Learning[[Basic]](https://nbviewer.jupyter.org/gist/gihyunkim/f7d2d1982d20e0815d80327000254bcb)
 
 
-2. 모델과 과적합(Overfitting)[[오버피팅]](https://nbviewer.jupyter.org/gist/gihyunkim/c8115f589813f0a6c4996e8409df42c81231)
+2. 학습과 오버피팅(Overfitting)[[오버피팅]](https://nbviewer.jupyter.org/gist/gihyunkim/5f6c486b195203aefeabd0b61a031e24)
 
 ## 지도학습(Supervised Learning)
-0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://nbviewer.jupyter.org/gist/gihyunkim/aae72867b0b94a825b0714787b2fd3f02222)
+0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://gist.github.com/gihyunkim/3762d08914628cc00d61c2cf827feffc)
 
 
-0. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/c6dc85a6707da110c09bc5f2238f8282529)
+0. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/7e16fa3ddbd00f426cc05a620b4e6209)
 
 
 1. 선형회귀(Linear Regression)[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b222281/02_lin_regression.ipynb)
 
 
-1. 선형회귀 cost함수[[cost]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b236281/03_linear_cost.ipynb)
-
-
 2. 이진분류(Binary Classification)[[Binary]](https://nbviewer.jupyter.org/gist/gihyunkim/fd3b0b74ba272ea040d30fd11f9892e2e25)
+====
 
 
+ 1 file  0 forks  0 comments  0 stars￼ gihyunkim / 03_1_ANN.ipynb
+Created 8 minutes ago
 2. 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/55cf023ad00a9d18b794ed060930372220e)
 
 
