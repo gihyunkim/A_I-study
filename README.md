@@ -27,51 +27,48 @@
 0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://gist.github.com/gihyunkim/3762d08914628cc00d61c2cf827feffc)
 
 
-0. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/7e16fa3ddbd00f426cc05a620b4e6209)
+1. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/7e16fa3ddbd00f426cc05a620b4e6209)
 
 
-1. 선형회귀(Linear Regression)[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/8c035f57926feac5a023260f5654b222281/02_lin_regression.ipynb)
+2. 선형회귀(Linear Regression)[[Linear]](https://nbviewer.jupyter.org/gist/gihyunkim/4245ec9968439e3418864893e5f20d5d)
 
 
-2. 이진분류(Binary Classification)[[Binary]](https://nbviewer.jupyter.org/gist/gihyunkim/fd3b0b74ba272ea040d30fd11f9892e2e25)
-====
+3. 이진분류(Binary Classification)[[Binary]](https://nbviewer.jupyter.org/gist/gihyunkim/3e9edb09286a220cf8aec63cd24da9c6)
 
 
- 1 file  0 forks  0 comments  0 stars￼ gihyunkim / 03_1_ANN.ipynb
-Created 8 minutes ago
-2. 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/55cf023ad00a9d18b794ed060930372220e)
+4. 가능도(Likelihood)[[가능도]](https://nbviewer.jupyter.org/gist/gihyunkim/d11b003dcfe081c087275820d61e4f1c)
 
 
-3. 소프트맥스(Softmax)[[softmax]](https://nbviewer.jupyter.org/gist/gihyunkim/7008615c20206c59cdb35ad767792727c4a3)
+5. 소프트맥스(Softmax)[[softmax]](https://nbviewer.jupyter.org/gist/gihyunkim/027b1aac0efafd001d514a6b09e6f00b)
 
 
-4. 서포트벡터머신(SVM)[[SVM]](https://nbviewer.jupyter.org/gist/gihyunkim/c7d2b6839d81ad84ba705c93c192222e929)
+6. 서포트벡터머신(SVM)[[SVM]](https://nbviewer.jupyter.org/gist/gihyunkim/a7eacd0e8eee41c62b755bd89d87cf3c)
 
 
-5. CNN(Convolution Neural Network)[[CNN]](https://nbviewer.jupyter.org/gist/gihyunkim/4cfa13019f7b4c97ba0a1c554733699865d5)
+5. CNN(Convolution Neural Network)[[CNN]](https://nbviewer.jupyter.org/gist/gihyunkim/2ddffc8b85bbe7b05bd62d6b1d3e5e6e)
 
 
-6. RNN(Recurrent Neural Network)[[RNN]](https://nbviewer.jupyter.org/gist/gihyunkim/fa4a27badc03103e314a75b14266d189590d)
+6. RNN(Recurrent Neural Network)[[RNN]](https://nbviewer.jupyter.org/gist/gihyunkim/01675389d30351a4e7c51b16c814c2cd)
 
 
-7. LSTM(Long-short term Memory Unit)[[LSTM]](https://nbviewer.jupyter.org/gist/gihyunkim/7948c71fa43b8eed9cdc0343846852f93333)
+7. LSTM(Long-short term Memory Unit)[[LSTM]](https://nbviewer.jupyter.org/gist/gihyunkim/77d0408405ec712ffb6af4176c8ce44e)
 
 
-8. GRU(Gated Recurrent Unit)[[GRU]](https://nbviewer.jupyter.org/gist/gihyunkim/a544a5f122ad629558461997da2627708bb)
+8. GRU(Gated Recurrent Unit)[[GRU]](https://nbviewer.jupyter.org/gist/gihyunkim/0f6b693cf2e08a02d68b0407e6588655)
 
 
 
 ## 비지도학습(Unsupervised Learning)
-1. PCA와 LDA[[차원축소]](https://nbviewer.jupyter.org/gist/gihyunkim/71d7578ae0040b4484a115975sysyedc00211)
+1. PCA와 LDA[[차원축소]](https://nbviewer.jupyter.org/gist/gihyunkim/f87456718baedc7231cc6e304237e9f2)
 
 
-2. 클러스터링(Clustering)[[클러스터링]](https://nbviewer.jupyter.org/gist/gihyunkim/bddbd19deb5feb7eeeb02f57b378edfe202)
+2. 클러스터링(Clustering)[[클러스터링]](https://nbviewer.jupyter.org/gist/gihyunkim/f1ec7c2fda37db3e676278312ba4c1d4)
 
 
-3. 의사결정나무(Decision_Tree)[[tree]](https://nbviewer.jupyter.org/gist/gihyunkim/86e57362ff70c9805b3yehedd793d1a40421a)
+3. 의사결정나무(Decision_Tree)[[tree]](https://nbviewer.jupyter.org/gist/gihyunkim/d80521e2a904b9a28555ce9cecd58eb2)
 
 
-4. 랜덤포레스트와 k-nn[[앙상블]](https://nbviewer.jupyter.org/gist/gihyunkim/9f5b51e37c8000e780ac4edhshe257315ec5ad)
+4. 랜덤포레스트와 k-nn[[앙상블]](https://nbviewer.jupyter.org/gist/gihyunkim/19f88e7a9bde472fc677048f938e8482)
 
 
 # Tensorflow Practice
