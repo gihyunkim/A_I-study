@@ -24,7 +24,7 @@
 2. 학습과 오버피팅(Overfitting)[[오버피팅]](https://nbviewer.jupyter.org/gist/gihyunkim/5f6c486b195203aefeabd0b61a031e24)
 
 ## 지도학습(Supervised Learning)
-0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://gist.github.com/gihyunkim/3762d08914628cc00d61c2cf827feffc)
+0. 퍼셉트론(Perceptron)[[퍼셉트론]](https://nbviewer.jupyter.org/gist/gihyunkim/3762d08914628cc00d61c2cf827feffc)
 
 
 1. 신경망(ANN)[[ANN]](https://nbviewer.jupyter.org/gist/gihyunkim/7e16fa3ddbd00f426cc05a620b4e6209)
