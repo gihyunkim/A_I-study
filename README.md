@@ -7,6 +7,10 @@
 - coursera[[강의]](https://www.coursera.org/learn/machine-learning)
 
 
+
+기초 선형대수 요약[[선형대수]](https://nbviewer.jupyter.org/gist/gihyunkim/e52e2dbadde7b30c8d524a12a310685c/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EC%A0%95%EB%A6%AC.ipynb)
+
+
 ## 파이썬
   - 기본 파이썬 문법은 따로 정리하지 않았습니다.
   
