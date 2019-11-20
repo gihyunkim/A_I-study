@@ -20,6 +20,9 @@
   
   - 파이썬을 모르시다면 이 사이트를 참고하세요. [[점프 투 파이썬_wiki]](https://wikidocs.net/book/1)
  
+ 
+# 통계
+Microsoft Data Science edX[[statistic_1]]https://nbviewer.jupyter.org/gist/gihyunkim/4a9275b3955a754db33d2bfa72503599
 
 ## 머신러닝의 기본(Basic of ML)
 1. Basic Machine Learning[[Basic]](https://nbviewer.jupyter.org/gist/gihyunkim/f7d2d1982d20e0815d80327000254bcb)
