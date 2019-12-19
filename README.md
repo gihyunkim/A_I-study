@@ -1,14 +1,18 @@
 # Personal ML Study
 개인적으로 공부한 머신러닝 요약.
 
-공부하기 좋은 자료.
+# 공부하기 좋은 자료.
 - 모두를 위한 머신러닝[[강의]](http://hunkim.github.io/ml/)
 - c231n[[강의]](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - coursera[[강의]](https://www.coursera.org/learn/machine-learning)
 
 
 
-기초 선형대수 요약[[선형대수]](https://nbviewer.jupyter.org/gist/gihyunkim/e52e2dbadde7b30c8d524a12a310685c/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EC%A0%95%EB%A6%AC.ipynb)
+# 기초 선형대수 요약[[선형대수]](https://nbviewer.jupyter.org/gist/gihyunkim/e52e2dbadde7b30c8d524a12a310685c/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EC%A0%95%EB%A6%AC.ipynb)
+
+
+# 마이크로소프트 강의 통계 요약
+- 통계[[statistic]](https://nbviewer.jupyter.org/gist/gihyunkim/bf115a5e9c4aa8c67f4ce5858db1f4ca)
 
 
 ## 파이썬
