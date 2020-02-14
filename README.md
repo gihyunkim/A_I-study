@@ -8,7 +8,8 @@
 
 
 
-# 기초 선형대수 요약[[선형대수]](https://nbviewer.jupyter.org/gist/gihyunkim/e52e2dbadde7b30c8d524a12a310685c/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EC%A0%95%EB%A6%AC.ipynb)
+# 기초 선형대수 요약
+- 수악중독의 선형대수[[선형대수]](https://nbviewer.jupyter.org/gist/gihyunkim/e52e2dbadde7b30c8d524a12a310685c/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EC%A0%95%EB%A6%AC.ipynb)
 
 
 # 마이크로소프트 강의 통계 요약
@@ -16,17 +17,20 @@
 
 
 ## 파이썬
-  - 기본 파이썬 문법은 따로 정리하지 않았습니다.
+- 기본 파이썬 문법은 따로 정리하지 않았습니다.
+
+
+- 파이썬에 대한 자료형, 연산, 리스트, 딕셔너리, 출력문, 가정문, 반복문, 함수와 클래스 작성법, numpy에 대한 기본 지식이 필요합니다.
   
   
-  - 파이썬에 대한 자료형, 연산, 리스트, 딕셔너리, 출력문, 가정문, 반복문, 함수와 클래스 작성법, numpy에 대한 기본 지식이 필요합니다.
-  
-  
-  - 파이썬을 모르시다면 이 사이트를 참고하세요. [[점프 투 파이썬_wiki]](https://wikidocs.net/book/1)
+- 파이썬을 모르시다면 이 사이트를 참고하세요. [[점프 투 파이썬_wiki]](https://wikidocs.net/book/1)
  
  
 # 통계
 Microsoft Data Science edX[[statistic_1]](https://nbviewer.jupyter.org/gist/gihyunkim/4a9275b3955a754db33d2bfa72503599)
+
+
+
 
 ## 머신러닝의 기본(Basic of ML)
 1. Basic Machine Learning[[Basic]](https://nbviewer.jupyter.org/gist/gihyunkim/f7d2d1982d20e0815d80327000254bcb)
@@ -87,3 +91,7 @@ Practice code and comment from me
 
 
 1. Newspaper Recommendation[[Recommendation]](https://nbviewer.jupyter.org/gist/gihyunkim/f73436eheh4186a04c8458933fee748a2ec134186a04c8458933fee748a2ec1)
+
+# pr12
+1. GAN[[GAN]](https://nbviewer.jupyter.org/gist/gihyunkim/5dc5986546f9751299a2187fc463cca7)
+2. Deformable CNN[[DCNN]](https://nbviewer.jupyter.org/gist/gihyunkim/37b4c6b9ceabe45a5ca24935435455d7)
