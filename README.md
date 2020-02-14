@@ -86,11 +86,7 @@ Microsoft Data Science edX[[statistic_1]](https://nbviewer.jupyter.org/gist/gihy
 4. 랜덤포레스트와 k-nn[[앙상블]](https://nbviewer.jupyter.org/gist/gihyunkim/19f88e7a9bde472fc677048f938e8482)
 
 
-# Tensorflow Practice
-Practice code and comment from me
 
-
-1. Newspaper Recommendation[[Recommendation]](https://nbviewer.jupyter.org/gist/gihyunkim/f73436eheh4186a04c8458933fee748a2ec134186a04c8458933fee748a2ec1)
 
 # pr12
 1. GAN[[GAN]](https://nbviewer.jupyter.org/gist/gihyunkim/5dc5986546f9751299a2187fc463cca7)
