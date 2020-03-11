@@ -11,6 +11,7 @@
 # 기초 선형대수 요약
 - 수악중독의 선형대수[[선형대수]](https://nbviewer.jupyter.org/gist/gihyunkim/e52e2dbadde7b30c8d524a12a310685c/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98%20%EC%A0%95%EB%A6%AC.ipynb)
 
+- 프로그래머를 위한 선형대수[[link]](https://nbviewer.jupyter.org/gist/gihyunkim/5be57396b5626c0c22b57000425bd052)
 
 # 마이크로소프트 강의 통계 요약
 - 통계[[statistic]](https://nbviewer.jupyter.org/gist/gihyunkim/bf115a5e9c4aa8c67f4ce5858db1f4ca)
